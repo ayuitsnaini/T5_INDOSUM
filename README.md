@@ -6,3 +6,6 @@ T5.ipynb
 
 datasets for training and testing the model :
 train_Indosum.csv and test_Indosum.csv
+
+model saved:
+t5_model.pkl
