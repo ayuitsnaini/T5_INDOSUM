@@ -6,6 +6,7 @@ T5.ipynb
 
 datasets for training and testing the model :
 train_Indosum.csv and test_Indosum.csv
+
 IndosumHalf.csv (all dataset used on this project)
 
 model saved:
