@@ -9,3 +9,6 @@ train_Indosum.csv and test_Indosum.csv
 
 model saved:
 t5_model.pkl
+
+paper for this project <Abstractive text summarization using Pre-Trained Language Model "Text-to-Text Transfer Transformer (T5)">
+https://jurnal.fikom.umi.ac.id/index.php/ILKOM/article/view/1532
